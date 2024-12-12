@@ -14,7 +14,7 @@ Il permet de gérer les ventes de fromages, les stocks et les factures des clien
 - **WindowBuilder** : Outil de création d'interface graphique.
 
 ## Exécution
-1. Cloner le projet : `git clone https://github.com/votre_nom_utilisateur/fromage-vente-app.git`
+1. Cloner le projet : `git clone https://github.com/votre_nom_utilisateur/app-vente-fromage.git`
 2. Ouvrir le projet dans Eclipse.
 3. Lancer l'application via la classe principale.
 
