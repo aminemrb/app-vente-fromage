@@ -6,6 +6,7 @@ Il permet de gérer les ventes de fromages, les stocks et les factures des clien
 ## Fonctionnalités principales
 - Gestion des stocks de fromage.
 - Ajout, modification et suppression des ventes.
+- Facture téléchargeable
 - Interface utilisateur intuitive.
 
 ## Technologies utilisées
